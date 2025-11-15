@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm JV 👋
 
-<!--
-**jvlugtu/jvlugtu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BSIT Student | Aspiring Developer | Tech Enthusiast
 
-Here are some ideas to get you started:
+I'm currently studying **BSIT** and learning **Java, Python, C, C#, C++, HTML, CSS, JS, MySQL, networking basics (Cisco NetAcad)**, and building small web projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Tools
+
+* **Languages:** Java, Python, HTML, CSS, C, C#, C++
+* **Learning:** OOP, MySQL, Networking (CCNA basics)
+* **Tools:** VS Code, Git, GitHub, Figma, Canva
+
+---
+
+## 📌 Projects
+
+* **School Activities** – Java exercises, HTML/CSS prototypes
+* **Networking Notes** – My CCNA practice labs and summaries
+
+---
+
+## 📚 What I'm Learning Right Now
+
+* Object-Oriented Programming (Java)
+* Networking (Cisco NetAcad)
+* Basic front-end design
+
+---
+
+## 📫 Contact
+
+* **Email:** *(johnvincentlugtu23@gmail.com)*
+
+---
+
+Thanks for visiting! Feel free to check my repos or leave a star ⭐
